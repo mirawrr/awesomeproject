@@ -37,7 +37,7 @@ The lasso regression model was the best performing model, out of other regressio
 
 The features that are most significant predictors of housing prices as as follows:
 
-[image1](images/top20.png)
+[image1](top20.png)
 
 
 The COVID-19 pandemic generally had a negative impact on the participation rates and aggregrated scores in SAT and ACT tests, across states in the US. The mean/median of SAT/ACT participation rates and aggregated scores certainly decreased across board over the period from 2019 to 2021. 
